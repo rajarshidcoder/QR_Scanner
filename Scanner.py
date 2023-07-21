@@ -2,7 +2,6 @@ import cv2
 import numpy as np
 from pyzbar.pyzbar import decode
 
-#img = cv2.imread('qr_code.png')
 
 cam = cv2.VideoCapture(0)
 
